@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jake-myers-vpg
+👋 Hi, I’m @jake-myers-vpg
 
 <!---
 jake-myers-vpg/jake-myers-vpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
